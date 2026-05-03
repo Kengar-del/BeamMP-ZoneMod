@@ -1,8 +1,3 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5001c565-9f07-48e4-a331-bf17f92cb044" />
-
-
-https://github.com/user-attachments/assets/202e4cdc-49b5-46fe-b89e-6022b0fb5c66
-
 # BeamMP Dynamic Zone (Circle of Death)
 
 A robust, synchronized multiplayer shrinking zone script for BeamMP. Designed for server hosts to run competitive events like Sumo, Derby, or Last Man Standing.
@@ -13,6 +8,8 @@ A robust, synchronized multiplayer shrinking zone script for BeamMP. Designed fo
 * **On-Screen UI:** Integrated notifications in the top-left corner keep players updated on zone status and warnings.
 * **Smart Elimination:** Automatically triggers vehicle failures (engine, tires, structural damage) when players leave the boundary.
 * **Players Friendly:** Easy to use commands without needing to restart the server or edit files mid-game.
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5001c565-9f07-48e4-a331-bf17f92cb044" />
 
 ---
 
