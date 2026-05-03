@@ -1,3 +1,8 @@
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5001c565-9f07-48e4-a331-bf17f92cb044" />
+
+
+https://github.com/user-attachments/assets/202e4cdc-49b5-46fe-b89e-6022b0fb5c66
+
 # BeamMP Dynamic Zone (Circle of Death)
 
 A robust, synchronized multiplayer shrinking zone script for BeamMP. Designed for server hosts to run competitive events like Sumo, Derby, or Last Man Standing.
@@ -37,6 +42,10 @@ A robust, synchronized multiplayer shrinking zone script for BeamMP. Designed fo
 2. Type `/setzone 150` to create a large boundary.
 3. Once everyone is ready, type `/setzonespeed 0.5` to start the shrink.
 4. The script handles the rest!
+
+
+https://github.com/user-attachments/assets/0172b626-bf0f-46bb-a790-dfe8b20c5c26
+
 
 ---
 
